@@ -1,0 +1,9 @@
+﻿{
+  "Info": {
+    "Class": "clsDbProjProperty",
+    "Description": "Project Properties (Access)"
+  },
+  "Items": {
+    "VCS Build Path": "D:\\MES_SOURCES\\ACCESS\\EXEMPLES\\ACCESS XP\\PROTECTION"
+  }
+}

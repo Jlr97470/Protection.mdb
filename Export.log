@@ -1,0 +1,129 @@
+﻿-------------------------------------
+Beginning Export of Source Files
+Protection.mdb
+VCS Version 4.1.2
+Full Path: D:\MES_SOURCES\ACCESS\EXEMPLES\ACCESS XP\PROTECTION\Protection.mdb
+Export Folder: D:\MES_SOURCES\GITHUB\Protection.mdb\
+Performing Full Export
+03/12/2025 08:59:24
+-------------------------------------
+Scanning source files...
+No db connections found in this database.
+No vbe forms found in this database.
+No saved specs found in this database.
+No commandbars found in this database.
+No shared images found in this database.
+No themes found in this database.
+No imex specs found in this database.
+No tables found in this database.
+No queries found in this database.
+No macros found in this database.
+No reports found in this database.
+No table data found in this database.
+No table data macros found in this database.
+No relations found in this database.
+No hidden attributes found in this database.
+-------------------------------------
+Exporting project...          
+  Protection.mdb
+[1]
+-------------------------------------
+Exporting vb project...       
+  Protection Maj
+[1]
+-------------------------------------
+Exporting vbe references...   
+  stdole
+[3]
+-------------------------------------
+Exporting proj properties...  
+  Current Project Properties (Access)
+[1]
+-------------------------------------
+Exporting modules...          
+  mod Protection MAJ
+[1]
+-------------------------------------
+Exporting db properties...    
+  Database Properties (DAO)
+[31]
+-------------------------------------
+Exporting forms...            
+  frm Protection
+    Sanitized in 0,072 seconds.
+[1]
+-------------------------------------
+Exporting doc properties...   
+  Database Documents
+[3]
+-------------------------------------
+Exporting nav pane groups...  
+  Groups
+[1]
+-------------------------------------
+Done. (1,91 seconds)
+
+--------------------------------------------------
+                PERFORMANCE REPORTS
+--------------------------------------------------
+Category                      Count     Seconds
+--------------------------------------------------
+Forms                         1         0,82
+DB Properties                 31        0,16
+Project                       1         0,08
+Nav Pane Groups               1         0,08
+Modules                       1         0,08
+Doc Properties                3         0,07
+VBE References                3         0,07
+CommandBars                   0         0,06
+Proj Properties               1         0,05
+VB Project                    1         0,05
+DB Connections                0         0,02
+Hidden Attributes             0         0,01
+Relations                     0         0,00
+Shared Images                 0         0,00
+IMEX Specs                    0         0,00
+Themes                        0         0,00
+Table Data Macros             0         0,00
+Table Data                    0         0,00
+VBE Forms                     0         0,00
+Tables                        0         0,00
+Saved Specs                   0         0,00
+Queries                       0         0,00
+Macros                        0         0,00
+Reports                       0         0,00
+--------------------------------------------------
+TOTALS:                       43        1,59
+--------------------------------------------------
+
+--------------------------------------------------
+Operations                    Count     Seconds
+--------------------------------------------------
+Increment Progress            18        0,32
+Convert to JSON               427       0,23
+Scan DB Objects               1         0,19
+App.SaveAsText()              1         0,09
+Console Updates               3         0,09
+Sanitize File                 1         0,09
+Read File DevMode             1         0,03
+Write File                    11        0,02
+Read File                     2         0,02
+Read File Bytes               2         0,02
+Quick Count Files             1         0,01
+Export VBE Module             1         0,01
+Quick Count Objects           1         0,01
+Compute SHA256                30        0,01
+Get File Property Hash        9         0,01
+modFileAccess.VerifyPath      12        0,01
+Get Modified Date             11        0,00
+Delete File                   3         0,00
+Close Open Objects            1         0,00
+Get VBA Hash                  2         0,00
+Sanitize VBA Code             2         0,00
+Clear Files by Ext            6         0,00
+modFileAccess.GetUncPath      2         0,00
+--------------------------------------------------
+Other Operations                        0,76
+--------------------------------------------------
+
+

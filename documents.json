@@ -1,0 +1,15 @@
+﻿{
+  "Info": {
+    "Class": "clsDbDocument",
+    "Description": "Database Documents Properties (DAO)"
+  },
+  "Items": {
+    "Databases": {
+      "SummaryInfo": {
+        "Author": "Hervé Inisan",
+        "Company": "Micro Application / Self-Access.com",
+        "Title": "Agence immobilière"
+      }
+    }
+  }
+}
