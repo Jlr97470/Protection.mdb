@@ -6,9 +6,24 @@
   "Items": {
     "Databases": {
       "SummaryInfo": {
-        "Author": "Hervé Inisan",
-        "Company": "Micro Application / Self-Access.com",
-        "Title": "Agence immobilière"
+        "Author": {
+          "Type": 10,
+          "Value": "Hervé Inisan"
+        },
+        "Company": {
+          "Type": 10,
+          "Value": "Micro Application / Self-Access.com"
+        },
+        "Title": {
+          "Type": 10,
+          "Value": "Agence immobilière"
+        }
+      },
+      "UserDefined": {
+        "ReplicateProject": {
+          "Type": 1,
+          "Value": true
+        }
       }
     }
   }
